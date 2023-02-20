@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.sola {
+    text-align: left;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: chocolate;
+}
+
+.menu ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    padding: 15px;
+}
